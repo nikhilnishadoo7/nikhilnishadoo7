@@ -12,9 +12,10 @@ Hey, its Nikhil!
 
 •	😄 Pronouns: He/Him
 
-•	⚡ Fun fact: I am a Speed Cuber, love swimming & travelling.
+•	⚡ Fun fact: I am a memer, love swimming & travelling.
 
-•	🛠  Languages and Tools:
+            
+          
 
 
           
