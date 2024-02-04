@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**nikhilnishadoo7/nikhilnishadoo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey, its Nikhil!
+👨🏻‍💻  About Me:
+🔭 I’m currently working on NextJs, MongoDB & React.
+👨‍💻 I am passionate about Web Dev and its fusion with ML. I enjoy learning new things.
+👯 I’m looking to collaborate on Typescript Projects.
+💬 Ask me about Web Dev, DSA, opportunities, Productivity.
+😄 Pronouns: He/Him
+⚡ Fun fact: I am a Speed Cuber, love swimming & travelling.
+🛠  Languages and Tools:
+          
+          
